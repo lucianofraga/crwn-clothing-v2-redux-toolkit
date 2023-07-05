@@ -1,5 +1,4 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { CATEGORIES_ACTION_TYPES } from './category.types';
 
 export const CATEGORIES_INITIAL_STATE = {
   categories: [],
